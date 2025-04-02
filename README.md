@@ -124,6 +124,6 @@ The analysis provides insights into the evolution of the film industry, the impa
 📁 Report Type: Interactive Power BI Dashboard
 
 &nbsp;
-🚀 Download the full Power BI report for an in-depth, interactive experience! [IMDb Data Analysis Report]()
+🚀 Download the full Power BI report for an in-depth, interactive experience! [IMDb Data Analysis Report](https://github.com/sushvanth-d/IMDb-Data-Analysis/blob/main/IMDB%20Data%20Analysis%20Project%20By%20Sushvanth_D.pbix)
 
 
