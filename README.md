@@ -21,6 +21,27 @@ _(Covers movies from the 1900s to mid-2023)_
     -  **Country** - Country where movie was produced
 
 &nbsp;
+&nbsp;
+## Process
+1. Data Collection <br />
+       -IMDb dataset was sourced with various attributes like budget, revenue, and score.  
+&nbsp;
+2. Data Cleaning & Transformation <br />
+       -Removed duplicate and missing values. <br />
+       -Standardized formats for dates, currencies, and numeric values. <br />
+       -Split multiple genres and then unpivoted them in separate table with the movie id for better analysis. <br />
+&nbsp;
+3. Data Modeling <br />
+      -Created relationships between Movies, Genres, and Countries tables. <br />
+      -Applied cross-filtering to enhance interactive insights. <br />
+&nbsp;
+4. Visualization & Analysis <br />
+     -Built interactive Power BI dashboards for trend analysis. <br />
+     -Identified key trends in revenue, production, budget, and profitability. <br />
+&nbsp;
+
+&nbsp;
+   
 ## 📊 Key Visualizations & Insights
 ### Movies Production Trends
 - **Chart Type** : Filled Map & Line Chart
